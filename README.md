@@ -1,5 +1,7 @@
-# test-model
+# FuturePoint
 
- ```g++ -O2 -std=c++17 main.cpp -o main```
+- basic data prediction model (test project)
+
+ ```g++ main.cpp -o project `pkg-config --cflags --libs gtkmm-3.0 cairomm-1.16```
 
  
